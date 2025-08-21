@@ -8,13 +8,12 @@ def load_models():
 
 models, le_day, le_slot, food_list = load_models()
 
-
 # Load datasets
 centers = pd.read_csv("data/donation_centers_expanded.csv")
 distances = pd.read_csv("data/restaurant_center_distances.csv")
 
 # UI: Header
-st.title("🍛 FoodSaver AI – Surplus Food Donation Planner")
+st.title("🍛 Save & Serve – Surplus Food Donation Planner")
 st.markdown("Help restaurants reduce waste by predicting surplus and recommending nearby donation centers.")
 
 # UI: Input
