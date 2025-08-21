@@ -1,7 +1,7 @@
 CenterName,AcceptedFoods,Capacity_kg,Contact
-SmileFoodBank,"Salad, Kadhi, Aloo Fry",8,smilefoodbank@ngo.org
-HelpingHands NGO,"Veg Curry, Mixed Veg, Paneer",18,helpinghandsngo@ngo.org
-Local KitchenAid,"Rice, Dal, Chapati",18,localkitchenaid@ngo.org
-FoodRelief Hub,"Veg Curry, Mixed Veg, Paneer",13,foodreliefhub@ngo.org
-Feed the Needy,"Chole, Rajma, Pulao",9,feedtheneedy@ngo.org
-Annapurna Center,"Rice, Dal, Chapati",8,annapurnacenter@ngo.org
+SmileFoodBank,"Salad, Kadhi, Aloo Fry,Raita",10,smilefoodbank@ngo.org
+HelpingHands NGO,"Veg Curry, Mixed Veg,Papad, Paneer",18,helpinghandsngo@ngo.org
+Local KitchenAid,"Rice, Dal, Chapati",100,localkitchenaid@ngo.org
+FoodRelief Hub,"Veg Curry, Mixed Veg, Paneer,Raita",13,foodreliefhub@ngo.org
+Feed the Needy,"Chole, Rajma, Pulao",10,feedtheneedy@ngo.org
+Annapurna Center,"Rice, Dal, Chapati",50,annapurnacenter@ngo.org
