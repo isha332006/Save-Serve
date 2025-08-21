@@ -5,7 +5,7 @@ from sklearn.preprocessing import LabelEncoder
 def train_all_models(csv_path='data/human_readable_food_logs (1).csv'):
     # Load the food log data
     df = pd.read_csv(csv_path)
-
+    
     # Encode categorical features
     le_day = LabelEncoder()
     le_slot = LabelEncoder()
